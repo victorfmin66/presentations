@@ -1,6 +1,6 @@
 # Presentations
 
-Welcome human. In this repository you will find the public presentations for my talks. 
+Welcome everyone! In this repository you will find the public presentations for my talks. 
 
 ## 2024
 
