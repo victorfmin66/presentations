@@ -5,4 +5,4 @@ Welcome everyone! In this repository you will find the public presentations for 
 ## 2024
 
 ### DefCon32 - Aerospace Village
-Building the Ultimate Budget-Friendly Low Earth Orbit Ground Station
+- Building the Ultimate Budget-Friendly Low Earth Orbit Ground Station
